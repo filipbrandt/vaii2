@@ -1,0 +1,45 @@
+/*.button_edit{*/
+/*    background-color: red;*/
+/*}*/
+
+.navbar{
+    margin-bottom: 30px;
+}
+.container{
+    /*background-color: red;*/
+}
+
+.button_container{
+    background-color: blue;
+}
+
+.btn{
+    width: 150px;
+    margin-top: 15px;
+    margin-bottom: 100px;
+}
+
+.floated {
+    float: left;
+    margin-right: 10px;
+}
+
+.jumbotron{
+    background-color: #F8F8F8;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: justify;
+    border-radius: 10px;
+}
+
+.info {
+    display: inline;
+    margin-right: 15px;
+    font-weight: inherit;
+}
+
+.warning{
+    color: red;
+}
+
+

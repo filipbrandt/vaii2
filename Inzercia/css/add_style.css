@@ -1,0 +1,16 @@
+.navbar{
+    margin-bottom: 50px;
+}
+
+.btn {
+    width: 150px;
+    position: absolute;
+    /*margin-text-outline:;: ;*/
+
+    margin-top: 15px;
+    margin-bottom: 100px;
+}
+
+p{
+    color: red;
+}

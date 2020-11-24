@@ -1,0 +1,30 @@
+.btn{
+    width: 150px;
+    margin-top: 20px;
+
+}
+
+.navbar{
+    margin-bottom: 30px;
+}
+
+.jumbotron{
+    background-color: #F8F8F8;
+    padding-top: 30px;
+    padding-bottom: 80px;
+    text-align: justify;
+    border-radius: 10px
+
+}
+
+.info {
+    display: inline;
+    margin-right: 15px;
+    font-weight: inherit;
+}
+
+.floated {
+    float: left;
+    margin-right: 10px;
+}
+

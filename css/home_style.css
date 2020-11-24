@@ -1,0 +1,49 @@
+
+.strip img{
+    width: 100%;
+}
+.strip {
+    margin-bottom: 10px;
+}
+.col-lg {
+    margin-bottom: 10px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.col-lg h3{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: xx-large;
+    color: white;
+    font-weight: bold;
+}
+
+
+.col-lg p{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: x-large;
+    color: white;
+}
+
+.col-lg > .btn{
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.card{
+    width: 20rem;
+    margin-top: 50px;
+    border: none;
+}
+
+.card-title{
+    font-weight: bold;
+}
+.btn-primary{
+    width: 100%;
+}
+
